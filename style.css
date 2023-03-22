@@ -1,0 +1,138 @@
+body{
+    align-items: center;
+}
+.first{
+    text-align: center;
+}
+.a1{
+    text-decoration: none;
+    text-align: center;
+    font-family: Macan, sans-serif;
+    color: #1dbf73;
+    font-size: 11.2px;
+    line-height: 16px;
+    letter-spacing: 1px;
+}
+.a2{
+    text-decoration: none;
+    font-family: Macan, sans-serif;
+    color: #1dbf73;
+    font-size: 16px;
+    line-height: 28.8px;
+}
+.second{
+    text-align: center;
+    font-size: 35.2px;
+    line-height: 48px;
+    font-family: Macan, sans-serif ;
+    color: #404145;
+}
+.third{
+    text-align: center;
+    font-size: 16px;
+    line-height: 28px;
+    font-family: Macan, sans-serif ;
+    color: #404145;
+}
+.fourth{
+    text-align: center;
+    font-size: 14px;
+    line-height: 16px;
+    font-family: Macan, sans-serif ;
+    color: #404145;
+ 
+}
+.fifth{
+    font-size: 16px;
+    line-height: 28px;
+    font-family: Macan, sans-serif ;
+    color: #404145;   
+}
+.cover{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 775px; 
+    height: 515px; 
+}
+
+.head{
+ margin-left: 400px;
+ margin-right: 300px;
+ 
+}
+h2{
+    font-size: 20px;
+    line-height: 28px;
+    color: #404145;
+}
+i{
+    margin-left: 10px;
+    color: #404145;
+    text-decoration: none;
+    font-size: 30px;
+}
+.a3{
+    font-family: Macan, sans-serif ;
+    color: #404145;  
+    text-decoration: none;
+}
+.a4{
+    font-family: Macan, sans-serif ;
+    color: #404145;  
+    text-decoration: none;
+    font-size: 30px;
+}
+.seventh{
+    width: 300px;
+    margin: 20px 20px 10px 20px;
+    
+}
+.eight{
+    font-family: Macan, sans-serif;
+    color: #1dbf73;
+    font-size: 11.2px;
+    line-height: 16px;
+    letter-spacing: 1px;
+    margin: 0px 20px 0px 20px;
+}
+.a5{
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 28px;
+    color: #404145; 
+    margin-left:35px ;
+}
+.ninth{
+    width: 400px;
+}
+.tenth{
+    background-color: ;
+    background:linear-gradient(rgba(60, 88, 209, 0.856),#010080);
+    background-color:transparent;
+    background-color: transparent;
+}
+.lastC{
+    font-family: cursive, sans-serif;
+    color: #1dbf73;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.last{
+    width:100%;
+    height: 600px;
+
+}
+.aF{
+    font-size: 20px;
+    line-height: 28px;
+    font-family: Macan, sans-serif ;
+    color: #404145;  
+    text-decoration: none; 
+    align-items: center;
+}
+.twelve{
+    text-decoration: none;
+}
